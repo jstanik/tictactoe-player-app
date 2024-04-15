@@ -6,5 +6,5 @@ should implement a tic-tac-toe `Player` defined in
 the https://github.com/jstanik/tictactoe and should be able to connect to the game server and join
 a game.
 
-For more information about the game server and the network protocol pleaes
+For more information about the game server and the network protocol please
 visit https://github.com/jstanik/tictactoe.
